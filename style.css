@@ -1,0 +1,23 @@
+.Birthday invitation{
+    width:8000px;
+    height:600px;
+    position:relative;
+    position: absolute;
+    top:50px;
+    left:50px;
+    transform: translate(-50px,-50px);
+    text-align:center;
+    color: aquamarine;
+    font-size:50px ;
+    margin-bottom: 20px;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.background{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top:0 ;
+    left:0;
+    z-index: -1;
+}
